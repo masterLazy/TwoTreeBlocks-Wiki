@@ -60,7 +60,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: '服务器概述',
         },
         {
           href: 'https://github.com/masterLazy/TwoThreeBlocks-Wiki',
@@ -76,7 +76,7 @@ const config: Config = {
           title: '文档',
           items: [
             {
-              label: 'Tutorial',
+              label: '服务器概述',
               to: '/docs/intro',
             },
           ],
