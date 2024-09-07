@@ -39,9 +39,8 @@ function HomepageDetails() {
           height: '50vh',
           fontSize: '20px',
         }}>
-        <center>
-          <p>Two Three Blocks (TTB) 服务器首次于 2024.7.27 运行，现在变得越来越成熟啦</p>
-        </center>
+        <p>Two Three Blocks (TTB) 服务器首次于 2024.7.27 运行，现在变得越来越成熟啦</p>
+        <p>阅读文档以了解更多。</p>
       </div>
     </body>
   );
