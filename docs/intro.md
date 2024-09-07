@@ -47,7 +47,7 @@ PVP 是允许的，但是请保持友善哦。
 1. 加入“二中三中方块人交流会”，等待管理员审核。
 2. 在群公告中找到服务器的地址。
 
-::: note
+:::note
 
 你需要安装对应版本的 Minecraft，请[自行查找安装教程](https://cn.bing.com/search?pglt=129&q=如何安装minecraft+java版)。
 
@@ -55,7 +55,7 @@ PVP 是允许的，但是请保持友善哦。
 
 :::
 
-::: info
+:::info
 
 如果你没有购买正版账号，也可以进入 TTB。在 1.16.5 中，离线玩家（即没有正版账号的玩家）不能进入多人游戏，解决办法请看这里（仅供参考）：[[MOF\]离线多人修正 (MultiOfflineFix)](https://www.mcmod.cn/class/10643.html)
 
