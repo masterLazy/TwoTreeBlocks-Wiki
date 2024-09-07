@@ -8,15 +8,15 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://Repair-Technology.github.io',
+  url: 'https://github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docusaurus-v3',
+  baseUrl: '/masterLazy/twothreeblocks-wiki',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Repair-Technology', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-v3', // Usually your repo name.
+  organizationName: 'masterLazy', // Usually your GitHub org/user name.
+  projectName: 'TwoThreeBlocks Wiki', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
