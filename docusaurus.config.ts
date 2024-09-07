@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Two Three Block Wiki',
+  tagline: '二三方块 Minecraft 服务器官方 Wiki',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -39,13 +39,6 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://masterLazy.github.io/TwoThreeBlocks-Wiki/tree/main/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://masterLazy.github.com/TwoThreeBlocks-Wiki/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -93,10 +86,6 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/masterLazy/TwoThreeBlocks-Wiki',
