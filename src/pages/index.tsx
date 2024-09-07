@@ -31,26 +31,10 @@ function HomepageDetails() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <body>
-      <div
-        style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          height: '50vh',
-          fontSize: '20px',
-        }}>
+      <div>
         <center>
           <img src="img/TTB.png" />
         </center>
-      </div>
-      <div
-        style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          height: '50vh',
-          fontSize: '20px',
-        }}>
         <p>Two Three Blocks (TTB) 服务器首次于 2024.7.27 运行，现在变得越来越成熟啦</p>
         <p>阅读文档以了解更多。</p>
       </div>
