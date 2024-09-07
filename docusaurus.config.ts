@@ -63,7 +63,7 @@ const config: Config = {
           label: '服务器概述',
         },
         {
-          href: 'docs/guide/guide-alpha'
+          href: 'docs/guide/guide-alpha',
           position: 'left',
           label: '加入 TTB',
         },
