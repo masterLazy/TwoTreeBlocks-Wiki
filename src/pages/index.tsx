@@ -27,21 +27,6 @@ function HomepageHeader() {
   );
 }
 
-function HomepageDetails() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <body>
-      <div width=800px>
-        <center>
-          <img src="img/TTB.png" />
-        </center>
-        <p>Two Three Blocks (TTB) 服务器首次于 2024.7.27 运行，现在变得越来越成熟啦</p>
-        <p>阅读文档以了解更多。</p>
-      </div>
-    </body>
-  );
-}
-
 export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -49,7 +34,6 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <HomepageDetails />
       </main>
     </Layout>
   );
