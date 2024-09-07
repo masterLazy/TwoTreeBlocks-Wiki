@@ -1,47 +1,24 @@
+```
 ---
 sidebar_position: 1
 ---
-
-# Tutorial Intro
-
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+# 服务器概述
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+二三方块服务器（Two Three Blocks，TTB）成立于 2024 年 7 月 27 日，由“二中三中方块人交流会”的成员建立。
 
-## Start your site
 
-Run the development server:
+:::info
 
-```bash
-cd my-website
-npm run start
-```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+**二中三中方块人交流会**
+由正在或曾经在 NNEZ 和 NNSZ 就读的 Minecraft 玩家成立的团体。
+QQ 号：488943940
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### 我能在 TTB 里干什么？
+
+TTB 是一个**原版生存**服务器。版本为：**Java 1.16.5**。
+
+无论你是生电（红石）玩家，还是建筑玩家，抑或是各种都沾一点或者萌新玩家，都欢迎你加入 TTB 服务器！技术不是加入 TTB 的门槛。
