@@ -31,7 +31,7 @@ function HomepageDetails() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <body>
-      <div>
+      <div width=800px>
         <center>
           <img src="img/TTB.png" />
         </center>
