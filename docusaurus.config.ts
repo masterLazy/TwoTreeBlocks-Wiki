@@ -63,7 +63,6 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -75,7 +74,7 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '文档',
           items: [
             {
               label: 'Tutorial',
@@ -84,7 +83,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: '更多',
           items: [
             {
               label: 'GitHub',
