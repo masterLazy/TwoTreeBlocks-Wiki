@@ -27,6 +27,19 @@ function HomepageHeader() {
   );
 }
 
+function HomepageDetails() {
+  const {siteConfig} = useDocusaurusContext();
+  return (
+    <body>
+      <div className="container">
+        <center>
+          <p>Two Three Blocks (TTB) 服务器首次于 2024.7.27 运行，现在变得越来越成熟啦</p>
+        </center>
+      </div>
+    </body>
+  );
+}
+
 export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -34,7 +47,7 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <center>Two Three Blocks (TTB) 首次于 2024-7-27 运行，现在正变得越来越成熟。<center/>
+        <HomepageDetails />
       </main>
     </Layout>
   );
