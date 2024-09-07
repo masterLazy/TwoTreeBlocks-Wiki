@@ -64,7 +64,7 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'joinusSidebar',
           position: 'left',
           label: '加入 TTB',
         },
