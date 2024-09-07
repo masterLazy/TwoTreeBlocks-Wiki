@@ -34,6 +34,7 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
+        <center>Two Three Blocks (TTB) 首次于 2024-7-27 运行，现在正变得越来越成熟。<center/>
       </main>
     </Layout>
   );
