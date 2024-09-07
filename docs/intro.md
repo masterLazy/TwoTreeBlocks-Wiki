@@ -1,8 +1,6 @@
-```
 ---
 sidebar_position: 1
 ---
-```
 
 # 服务器概述
 
@@ -13,8 +11,13 @@ sidebar_position: 1
 
 
 **二中三中方块人交流会**
-由正在或曾经在 NNEZ 和 NNSZ 就读的 Minecraft 玩家成立的团体。
+
+由在或曾在 NNEZ 和 NNSZ 的 Minecraft 玩家成立的团体。
+
 QQ 号：488943940
+
+
+:::
 
 
 ### 我能在 TTB 里干什么？
