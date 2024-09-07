@@ -58,13 +58,13 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'mySidebar',
           position: 'left',
           label: '服务器概述',
         },
         {
           type: 'docSidebar',
-          sidebarId: 'joinusSidebar',
+          sidebarId: 'mySidebar',
           position: 'left',
           label: '加入 TTB',
         },
@@ -84,6 +84,10 @@ const config: Config = {
             {
               label: '服务器概述',
               to: '/docs/intro',
+            },
+            {
+              label: '加入 TTB',
+              to: '/docs/guide/guide-alpha'
             },
           ],
         },
