@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # 欢迎，新成员
@@ -35,11 +35,19 @@ PVP 是允许的，但是请保持友善哦。
 
 :::
 
-3. 向 TTB 的管理员申请，将你的游戏 ID 加入白名单。管理员名单会在文档末尾给出。
+3. 向 TTB 的管理员申请，将你的游戏 ID 加入白名单。管理员名单请见[服务器概述](https://masterlazy.github.io/TwoThreeBlocks-Wiki/docs/intro/)。
 3. 在 `多人游戏>添加服务器` 中输入 TTB 的地址，使用 `/register <密码> <确认密码>`  指令注册，请牢记密码，每次进入服务器都必须使用 `/login` 登录，这会用到您的密码。
 
 :::info
 
 TTB 使用您在 Minecraft 中的用户名作为你的“身份证”，而非 UUID。我们通过安装 mod 来做到这一点。
+
+:::
+
+:::warning
+
+**如果你忘记了你的密码**
+
+请联系以下管理员重置你的密码：d4vt、msterLazy。
 
 :::
