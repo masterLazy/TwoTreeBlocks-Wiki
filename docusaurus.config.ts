@@ -8,10 +8,10 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.io',
+  url: 'https://masterLazy.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/masterLazy/twothreeblocks-wiki',
+  baseUrl: '/TwoThreeBlocks-Wiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -38,14 +38,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/masterLazy/TwoThreeBlocks-Wiki/tree/main/',
+            'https://masterLazy.github.io/TwoThreeBlocks-Wiki/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/masterLazy/TwoThreeBlocks-Wiki/tree/main/',
+            'https://masterLazy.github.com/TwoThreeBlocks-Wiki/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
