@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Two Three Block Wiki',
+  title: 'Two Three Blocks Wiki',
   tagline: '二三方块 Minecraft 服务器官方 Wiki',
   favicon: 'img/favicon.ico',
 
