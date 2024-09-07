@@ -63,6 +63,12 @@ const config: Config = {
           label: '服务器概述',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: '加入 TTB',
+        },
+        {
           href: 'https://github.com/masterLazy/TwoThreeBlocks-Wiki',
           label: 'GitHub',
           position: 'right',
