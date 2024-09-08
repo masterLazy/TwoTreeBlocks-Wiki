@@ -12,5 +12,5 @@ TTB 是一个完全免费的服务器，加入我们不需要收费。然而，�
 
 :::
 
-![](https://masterlazy.github.io/TwoThreeBlocks-Wiki/static/img/donate.jpg)
+![](https://masterlazy.github.io/TwoThreeBlocks-Wiki/img/donate.jpg)
 
