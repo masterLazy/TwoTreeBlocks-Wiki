@@ -71,7 +71,7 @@ const config: Config = {
           to: '/docs/donate',
           position: 'left',
           label: '赞助 TTB',
-        }
+        },
         {
           href: 'https://github.com/masterLazy/TwoThreeBlocks-Wiki',
           label: 'GitHub',
