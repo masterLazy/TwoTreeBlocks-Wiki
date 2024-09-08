@@ -8,9 +8,9 @@ TTB 是一个完全免费的服务器，加入我们不需要收费。然而，�
 
 :::info
 
-我们衷心感谢每一位赞助者！
+感谢您对 TTB 的支持，您的每一份赞助都将帮助我们更好地发展。
 
 :::
 
-![](./img/donate.jpg)
+![](https://masterlazy.github.io/TwoThreeBlocks-Wiki/static/img/donate.jpg)
 
