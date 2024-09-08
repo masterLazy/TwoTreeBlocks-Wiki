@@ -68,6 +68,11 @@ const config: Config = {
           label: '加入 TTB',
         },
         {
+          to: '/docs/donate',
+          position: 'left',
+          label: '赞助 TTB',
+        }
+        {
           href: 'https://github.com/masterLazy/TwoThreeBlocks-Wiki',
           label: 'GitHub',
           position: 'right',
@@ -87,6 +92,10 @@ const config: Config = {
             {
               label: '加入 TTB',
               to: '/docs/guide/guide-alpha'
+            },
+            {
+              label: '赞助 TTB',
+              to: '/docs/donate'
             },
           ],
         },
