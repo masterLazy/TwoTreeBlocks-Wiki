@@ -4,6 +4,11 @@ sidebar_position: 1
 
 # 服务器概述
 
+<center>
+    ![ttb's logo](images\ttb.svg)
+    <p>Logo-“2”和“3”组成的方块</p>
+</center>
+
 二三方块服务器（Two Three Blocks，TTB）成立于 2024 年 7 月 27 日，由“二中三中方块人交流会”的成员建立。
 
 :::info
