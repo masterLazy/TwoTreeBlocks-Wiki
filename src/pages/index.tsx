@@ -34,7 +34,7 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <center><img src="img/ttb.jpg" style={{height:'40em'}}/></center>
+        <center><img src="img/ttb.jpg" style={{width: '100%'}}/></center>
       </main>
     </Layout>
   );
