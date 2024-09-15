@@ -53,7 +53,7 @@ const config: Config = {
       title: 'Two Three Blocks Wiki',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.png',
+        src: 'img/ttb.svg',
       },
       items: [
         {
