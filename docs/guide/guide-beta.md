@@ -23,7 +23,7 @@ sidebar_position: 2
 
 ## [CSL] 万用皮肤补丁 CustomSkinLoader
 
-链接：https://www.mcmod.cn/class/883.html。
+链接：https://www.mcmod.cn/class/883.html
 
 建议每个玩家都安装。
 
