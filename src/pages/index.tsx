@@ -19,7 +19,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            了解我们的服务器
+            了解详情
           </Link>
         </div>
       </div>
@@ -34,7 +34,7 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <center><img src="img/ttb.jpg" style={{width: '100%', height: 'auto'}}/></center>
+        <center><img src="img/ttb.jpg" style={{display: 'flex'}}/></center>
       </main>
     </Layout>
   );
