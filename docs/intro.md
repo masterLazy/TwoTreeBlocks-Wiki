@@ -5,7 +5,7 @@ sidebar_position: 1
 # 服务器概述
 
 <center>
-    <img src="https://masterlazy.github.io/TwoThreeBlocks-Wiki/img/ttb.svg" style={{width:'1em'}} />
+    <img src="https://masterlazy.github.io/TwoThreeBlocks-Wiki/img/ttb.svg" style={{width:'10em'}} />
     <p>Logo-“2”和“3”组成的方块</p>
 </center>
 
