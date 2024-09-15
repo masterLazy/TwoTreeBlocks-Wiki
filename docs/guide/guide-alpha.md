@@ -42,7 +42,7 @@ PVP 是允许的，但是请保持友善哦。
 
 1. 在群公告中找到服务器的地址。
 
-3. 向 TTB 的管理员申请，将你的游戏 ID 加入白名单。管理员名单请见[服务器概述](https://masterlazy.github.io/TwoThreeBlocks-Wiki/docs/intro/)。
+3. 向 TTB 的管理员申请，将你的游戏 ID 加入白名单。管理员名单请见[服务器概述](https://masterlazy.github.io/TwoThreeBlocks-Wiki/docs/intro/#管理员名单)。
 4. 在 `多人游戏>添加服务器` 中输入 TTB 的地址，并连接服务器。
 5. 使用 `/register 密码 确认密码`  指令注册，请牢记密码，每次进入服务器都必须使用 `/login` 登录，这会用到您的密码。
 
