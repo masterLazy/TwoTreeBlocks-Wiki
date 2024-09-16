@@ -14,7 +14,7 @@ sidebar_position: 2
 
 :::info
 
-你可以在 [mcmod.cn](https://www.mcmod.cn/) 上找到更多 mod。只要他们与服务器的版本匹配，且不需要再服务器安装就能生效，理论上就可以正常使用。
+你可以在 [mcmod.cn](https://www.mcmod.cn/) 上找到更多 mod。只要他们与服务器的版本匹配，且不需要服务器安装就能生效，理论上就可以正常使用。
 
 安装 mod 的方法略。
 
@@ -23,7 +23,7 @@ sidebar_position: 2
 
 ## [CSL] 万用皮肤补丁 CustomSkinLoader
 
-链接：https://www.mcmod.cn/class/883.html
+https://www.mcmod.cn/class/883.html
 
 建议每个玩家都安装。
 
@@ -31,7 +31,7 @@ sidebar_position: 2
 
 ## [BBOR] 自然生成建筑结构显示
 
-链接：https://www.mcmod.cn/class/1869.html
+https://www.mcmod.cn/class/1869.html
 
 对于一般玩家，这个 mod 可以显示刷怪方块，辅助你插火把，或者做照明。
 
@@ -39,7 +39,7 @@ sidebar_position: 2
 
 ## Tweakeroo
 
-链接：https://www.mcmod.cn/class/2230.html
+https://www.mcmod.cn/class/2230.html
 
 有一些奇妙的功能，比如：
 
@@ -54,7 +54,7 @@ sidebar_position: 2
 
 ## 投影 Litematica
 
-链接：https://www.mcmod.cn/class/2261.html
+https://www.mcmod.cn/class/2261.html
 
 允许你根据“原理图”建造建筑或机器，有助于把你在创造模式下的设计转移到生存服务器中。
 
@@ -64,12 +64,12 @@ sidebar_position: 2
 
 ### 钠 Sodium（渲染）
 
-链接：https://www.mcmod.cn/class/2785.html
+https://www.mcmod.cn/class/2785.html
 
 ### 锂 Lithium（计算）
 
-链接：https://www.mcmod.cn/class/2292.html
+https://www.mcmod.cn/class/2292.html
 
 ### 磷 Phosphor（光照）
 
-链接：https://www.mcmod.cn/class/1766.html
+https://www.mcmod.cn/class/1766.html
