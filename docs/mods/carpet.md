@@ -11,7 +11,7 @@ https://www.mcmod.cn/class/2361.html
 
 服务器端安装了这个 Mod，因此如果你在你的客户端中也安装了这个 Mod，你就可以正常使用它的功能。
 
-::: info
+:::info
 
 此 Mod 会与 optifabric 冲突。
 
