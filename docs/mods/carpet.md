@@ -1,7 +1,7 @@
 # Carpet 地毯
 https://www.mcmod.cn/class/2361.html
 
-> Carpet Mod 一款为原版Minecraft玩法带来的革新性模组，提升了玩家对游戏的控制力和理解度。通过精心设计的改动，消除了游戏中一些烦人的问题。在不影响游戏正常运行与体验的情况下，地毯端提供了一些可选的游戏特性或者原版特性缺少的内容，填补了原版游戏功能的空白。
+> Carpet mod 一款为原版Minecraft玩法带来的革新性模组，提升了玩家对游戏的控制力和理解度。通过精心设计的改动，消除了游戏中一些烦人的问题。在不影响游戏正常运行与体验的情况下，地毯端提供了一些可选的游戏特性或者原版特性缺少的内容，填补了原版游戏功能的空白。
 >
 > Carpet 一般多用于需要对游戏环境进行精细控制的服务器管理者与深入探索游戏机制，通过模组实现高级自动化和优化的玩家，通过以下几大类功能的修改和增强，为玩家提供了更深层次的控制：
 >
@@ -13,7 +13,7 @@ https://www.mcmod.cn/class/2361.html
 
 :::info
 
-此 Mod 会与 optifabric 冲突。
+此 mod 会与 optifabric 冲突。
 
 :::
 
@@ -21,7 +21,7 @@ https://www.mcmod.cn/class/2361.html
 
 ### /log
 
-- `/log tps`开启后，按下 `Tab` 键就能显示服务器的 TPS (Tick Per Second) 和 MSPT (MilliSecond Per Tick)。
+- `/log tps` 开启后，按下 `Tab` 键就能显示服务器的 TPS (Tick Per Second) 和 MSPT (MilliSecond Per Tick)。
 
 ### /player
 

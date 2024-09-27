@@ -10,11 +10,13 @@ TTB 欢迎 NNEZ 和 NNSZ 的校友加入。
 
 :::tip
 
+**服务器简则**
+
 加入 TTB 服务器，请与其他玩家友善相处，不要擅自破坏服务器内的机器和建筑等。
 
 如果你想在 TTB 中建设你的作品，请斟酌建造地点，避免地图拥挤；建议您先与其他玩家协商。
 
-PVP 是允许的，但是请保持友善哦。
+PVP 是允许的。
 
 :::
 
@@ -24,7 +26,7 @@ PVP 是允许的，但是请保持友善哦。
 
 ### 第二步：安装 Minecraft
 
-你需要安装对应版本的 Minecraft，请[自行查找安装教程](https://cn.bing.com/search?pglt=129&q=如何安装minecraft+java版)。
+你需要安装 Minecraft **1.16.5**，请[自行查找安装教程](https://cn.bing.com/search?pglt=129&q=如何安装minecraft+java版)。
 
 :::note
 
