@@ -56,7 +56,7 @@ PVP 是允许的，但是请保持友善哦。
 
 :::info
 
-TTB 使用您在 Minecraft 中的用户名作为你的“身份证”，而非 UUID。我们通过安装[白名单修复 mod]([https://masterlazy.github.io/TwoThreeBlocks-Wiki/docs/mods/bbor) 来做到这一点。
+TTB 使用您在 Minecraft 中的用户名作为你的“身份证”，而非 UUID。我们通过安装[白名单修复 mod]([https://masterlazy.github.io/TwoThreeBlocks-Wiki/docs/mods/lazylogin) 来做到这一点。
 
 :::
 
