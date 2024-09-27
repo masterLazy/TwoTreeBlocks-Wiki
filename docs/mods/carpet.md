@@ -19,24 +19,24 @@ https://www.mcmod.cn/class/2361.html
 
 比较常用的命令有：
 
-## /log
+### /log
 
 - `/log tps`开启后，按下 `Tab` 键就能显示服务器的 TPS (Tick Per Second) 和 MSPT (MilliSecond Per Tick)。
 
-## /player
+### /player
 
 “假人”命令，可以用于挂机。下面只列出比较常用的指令
 
 - `/player <username> spawn` 召唤假人
 - `/player <username> kill` 使假人退出游戏
 
-## /tick
+### /tick
 
 可以调整游戏的 TPS。
 
 - `/tick rate <tps>` 调整 TPS。
 
-## /carpet
+### /carpet
 
 服务器还开启了以下指令，它们会改变游戏特性。
 
