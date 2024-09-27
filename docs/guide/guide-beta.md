@@ -26,7 +26,9 @@ https://www.mcmod.cn/class/1869.html
 
 对于一般玩家，这个 mod 可以显示刷怪方块，辅助你插火把，或者做照明。
 
-对于生电玩家，无需多言。
+对于生电玩家，这可以显示自然建筑结构。
+
+更多描述请见[这里](https://masterlazy.github.io/TwoThreeBlocks-Wiki/docs/mods/bbor)。
 
 ## Tweakeroo
 

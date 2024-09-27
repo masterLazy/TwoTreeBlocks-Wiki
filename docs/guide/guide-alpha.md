@@ -34,7 +34,9 @@ PVP 是允许的，但是请保持友善哦。
 
 :::info
 
-如果你没有购买正版账号，也可以进入 TTB。在 1.16.5 中，离线玩家（即没有正版账号的玩家）不能进入多人游戏，解决办法请看这里（仅供参考）：[[MOF\]离线多人修正 (MultiOfflineFix)](https://www.mcmod.cn/class/10643.html)
+**如果你没有购买正版账号，也可以进入 TTB。**
+
+在 1.16.5 中，离线玩家（即没有正版账号的玩家）不能进入多人游戏，解决办法请看这里（仅供参考）：[[MOF\]离线多人修正 (MultiOfflineFix)](https://www.mcmod.cn/class/10643.html)
 
 :::
 
@@ -42,13 +44,19 @@ PVP 是允许的，但是请保持友善哦。
 
 1. 在群公告中找到服务器的地址。
 
-3. 向 TTB 的管理员申请，将你的游戏 ID 加入白名单。管理员名单请见[服务器概述](https://masterlazy.github.io/TwoThreeBlocks-Wiki/docs/intro/#管理员名单)。
-4. 在 `多人游戏>添加服务器` 中输入 TTB 的地址，并连接服务器。
-5. 使用 `/register 密码 确认密码`  指令注册，请牢记密码，每次进入服务器都必须使用 `/login` 登录，这会用到您的密码。
+2. 向 TTB 的管理员申请，将你的游戏 ID 加入白名单。管理员名单请见[服务器概述](https://masterlazy.github.io/TwoThreeBlocks-Wiki/docs/intro/#管理员名单)。
+3. 在 `多人游戏>添加服务器` 中输入 TTB 的地址，并连接服务器。
+4. 使用 `/register 密码 确认密码`  指令注册。请牢记密码，每次进入服务器都必须使用 `/login` 登录，这会用到您的密码。
 
 :::info
 
-TTB 使用您在 Minecraft 中的用户名作为你的“身份证”，而非 UUID。我们通过安装 mod 来做到这一点。
+为了保证安全，请在被加入白名单后尽快登录服务器注册。
+
+:::
+
+:::info
+
+TTB 使用您在 Minecraft 中的用户名作为你的“身份证”，而非 UUID。我们通过安装[白名单修复 mod]([https://masterlazy.github.io/TwoThreeBlocks-Wiki/docs/mods/bbor) 来做到这一点。
 
 :::
 
