@@ -35,7 +35,7 @@ sidebar_position: 3
 
 在收到 `You need to reconnect to apply the skin` 的时候，重连服务器，就可以看到你的皮肤啦。
 
-### FAQ：看不到皮肤
+## FAQ：看不到皮肤
 
 1. 确保你的图片链接是有效的。
 
@@ -46,3 +46,7 @@ MineSkin 是国外服务器，其可能无法访问国内的一些网站。
 :::
 
 2. 刚登录服务器的时候（1 min 以内）可能看不到皮肤，等一会儿就好了。
+
+## 另请参阅
+
+https://masterlazy.github.io/TwoThreeBlocks-Wiki/docs/mods/skinrestorer
