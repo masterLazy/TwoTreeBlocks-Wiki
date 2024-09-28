@@ -90,11 +90,11 @@ const config: Config = {
               to: '/docs/intro',
             },
             {
-              label: '加入 TTB',
-              to: '/docs/guide/guide-alpha'
+              label: '加入我们',
+              to: '/docs/guide/alpha'
             },
             {
-              label: '赞助 TTB',
+              label: '赞助我们',
               to: '/docs/donate'
             },
           ],
