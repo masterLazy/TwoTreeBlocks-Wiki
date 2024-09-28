@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 欢迎，新成员
 
-### 我怎么加入 TTB？
+## 我怎么加入 TTB？
 
 TTB 欢迎 NNEZ 和 NNSZ 的校友加入。
 
@@ -20,11 +20,11 @@ PVP 是允许的。
 
 :::
 
-### 第一步：加入“二中三中方块人交流会”
+## 第一步：加入“二中三中方块人交流会”
 
 加入“二中三中方块人交流会”，等待管理员审核。群号请见[服务器概述](https://masterlazy.github.io/TwoThreeBlocks-Wiki/docs/intro/)。
 
-### 第二步：安装 Minecraft
+## 第二步：安装 Minecraft
 
 你需要安装 Minecraft **1.16.5**，请[自行查找安装教程](https://cn.bing.com/search?pglt=129&q=如何安装minecraft+java版)。
 
@@ -42,7 +42,7 @@ PVP 是允许的。
 
 :::
 
-### 第三步：加入服务器
+## 第三步：加入服务器
 
 1. 在群公告中找到服务器的地址。
 
