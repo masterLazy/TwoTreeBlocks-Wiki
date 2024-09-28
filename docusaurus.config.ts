@@ -63,14 +63,14 @@ const config: Config = {
           label: '服务器概述',
         },
         {
-          to: '/docs/guide/guide-alpha',
+          to: '/docs/guide/alpha',
           position: 'left',
-          label: '加入 TTB',
+          label: '加入',
         },
         {
           to: '/docs/donate',
           position: 'left',
-          label: '赞助 TTB',
+          label: '赞助',
         },
         {
           href: 'https://github.com/masterLazy/TwoThreeBlocks-Wiki',
