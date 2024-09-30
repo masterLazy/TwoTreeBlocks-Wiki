@@ -65,12 +65,12 @@ const config: Config = {
         {
           to: '/docs/guide/alpha',
           position: 'left',
-          label: '加入',
+          label: '加入服务器',
         },
         {
           to: '/docs/donate',
           position: 'left',
-          label: '赞助',
+          label: '赞助我们',
         },
         {
           href: 'https://github.com/masterLazy/TwoThreeBlocks-Wiki',
@@ -90,7 +90,7 @@ const config: Config = {
               to: '/docs/intro',
             },
             {
-              label: '加入我们',
+              label: '加入服务器',
               to: '/docs/guide/alpha'
             },
             {

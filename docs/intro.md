@@ -15,9 +15,9 @@ sidebar_position: 1
 
 **二中三中方块人交流会**
 
-由 NNEZ 和 NNSZ 的 Minecraft 玩家成立的团体。
+一个 Minecraft 玩家（**非官方**）团体，其成员主要来自 NNEZ 和 NNSZ。
 
-QQ 群：488943940
+QQ 群号：488943940
 
 :::
 
