@@ -24,11 +24,17 @@ sidebar_position: 3
 
 ## 第二步：应用皮肤
 
-登录 TTB，使用 `/skin` 指令，面别对应”默认“和”纤细“两种模型：
+登录 TTB，使用 `/skin` 指令，分别对应”默认“和”纤细“两种模型：
 
 ```
 /skin set web classic 皮肤图片的链接
 /skin set web slim 皮肤图片的链接
+```
+
+以下是一个例子：
+
+```
+/skin set web slim "https://i.ibb.co/wrqdmG3/gura.png"
 ```
 
 ”默认“即和 Steve 一样的模型，”纤细“即和 Alex 一样的模型。
@@ -39,7 +45,7 @@ sidebar_position: 3
 
 ### 我进了服务器却看不到皮肤？
 
-1. 确保你的图片链接是有效的。
+1. 确保你的图片链接是有效的。例如，`https://i.ibb.co/wrqdmG3/gura.png` 是有效的，而 `https://ibb.co/rfhQr8T` 则不是。
 
 :::tip
 
