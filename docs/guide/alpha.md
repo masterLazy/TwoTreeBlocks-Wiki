@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # 欢迎，新成员
 
-## 我怎么加入 TTB？
-
 TTB 欢迎 NNEZ 和 NNSZ 的校友加入。
 
 :::tip
@@ -20,9 +18,9 @@ PVP 是允许的。
 
 :::
 
-## 第一步：加入“二中三中方块人交流会”
+## 第一步：加入“二三方块人交流会”
 
-加入“二中三中方块人交流会”，等待管理员审核。群号请见[服务器概述](https://masterlazy.github.io/TwoThreeBlocks-Wiki/docs/intro/)。
+加入“二三方块人交流会”，等待管理员审核。群号请见[服务器概述](https://masterlazy.github.io/TwoThreeBlocks-Wiki/docs/intro/)。
 
 ## 第二步：安装 Minecraft
 
