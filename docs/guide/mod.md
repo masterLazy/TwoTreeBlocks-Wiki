@@ -8,7 +8,7 @@ sidebar_position: 2
 
 :::info
 
-本节提到的大部分 mod 都可以在“二中三中方块人交流会”的 QQ 群中找到。
+本节提到的大部分 mod 都可以在“二三方块人交流会”的 QQ 群中找到。
 
 :::
 
@@ -20,7 +20,7 @@ sidebar_position: 2
 
 :::
 
-## [BBOR] 自然生成建筑结构显示
+## BBOR 自然生成建筑结构显示
 
 https://www.mcmod.cn/class/1869.html
 
@@ -45,7 +45,7 @@ https://www.mcmod.cn/class/2230.html
 
 :::
 
-## 投影 Litematica
+## Litematica 投影
 
 https://www.mcmod.cn/class/2261.html
 
@@ -55,14 +55,14 @@ https://www.mcmod.cn/class/2261.html
 
 指一系列优化 mod，它们可以提高帧率，具体介绍请自行了解。
 
-### 钠 Sodium（渲染）
+### Sodium 钠（渲染）
 
 https://www.mcmod.cn/class/2785.html
 
-### 锂 Lithium（计算）
+### Lithium 锂（计算）
 
 https://www.mcmod.cn/class/2292.html
 
-### 磷 Phosphor（光照）
+### Phosphor 磷（光照）
 
 https://www.mcmod.cn/class/1766.html
