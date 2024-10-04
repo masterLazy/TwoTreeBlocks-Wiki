@@ -77,7 +77,7 @@ https://www.mcmod.cn/class/1766.html
 
 https://www.mcmod.cn/class/3632.html
 
-可以大幅提高你在服务器出生点周围的 FPS（尤其是开了光影的情况下）。因为出生点周围的方块实体很多。
+在方块实体（比如箱子）很多的时候，可以大幅提高你的 FPS。比如在出生点周围。
 
 ## 补丁型 Mod
 
@@ -96,6 +96,8 @@ https://www.mcmod.cn/class/10643.html
 安装此 mod 不会影响服务器中的皮肤显示。
 
 :::
+
+https://www.mcmod.cn/class/883.html
 
 安装这个 mod 可以让你在服务器中按下 `Tab` 键的时候看到其他玩家的皮肤头像。
 
