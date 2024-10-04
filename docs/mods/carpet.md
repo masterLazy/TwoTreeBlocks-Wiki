@@ -17,7 +17,7 @@ https://www.mcmod.cn/class/2361.html
 
 :::
 
-比较常用的命令有：
+## 常用的命令
 
 ### /log
 
@@ -42,3 +42,16 @@ https://www.mcmod.cn/class/2361.html
 
 - `/carpet xpNoCooldown true` 吸收经验球无冷却
 - `/carpet onePlayerSleeping true` 允许一名玩家睡觉就跳过夜晚
+
+## Carpet TIS Addition
+
+https://www.mcmod.cn/class/5664.html
+
+服务器还安装了 Carpet TIS Addition，并开启了以下指令，它们会改变游戏特性。
+
+- `/carpet opPlayerNoCheat` 禁止拥有 `op` 权限的玩家使用以下命令：
+
+  `/gamemode`；`/give`；`/tp`；`/teleport`；`/setblock`；`/summon`
+### 另请参阅
+
+[规则 | Carpet TIS Addition](https://carpet.tis.world/zh-Hans/docs/rules)
