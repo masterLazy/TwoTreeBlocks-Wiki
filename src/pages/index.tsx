@@ -37,12 +37,12 @@ export default function Home(): JSX.Element {
                 <center>
                     <div style={{
                         height: '20rem',
-                        width: auto,
-                        overflow: hidden,
-                        position: relative
+                        width: 'auto',
+                        overflow: 'hidden',
+                        position: 'relative'
                     }}>
                         <img src="https://i.ibb.co/s3n4x7n/ttb.jpg" style={{
-                            position: absolute,
+                            position: 'absolute',
                             top: 0,
                             left: 0,
                             width: '100%',
