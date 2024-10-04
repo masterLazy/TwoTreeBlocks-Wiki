@@ -1,4 +1,6 @@
 # BBOR 自然生成建筑结构显示
+**Bounding Box Outline Reloaded**
+
 https://www.mcmod.cn/class/1869.html
 
 服务器端安装了这个 mod，因此如果你在你的客户端中也安装了这个 mod，它可以正常显示自然建筑结构。
