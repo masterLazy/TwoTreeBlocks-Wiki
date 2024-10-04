@@ -12,18 +12,19 @@
 }
 
 @font-face {
-    font-family: 'SourceHanSans';
+    font-family: 'SourceHanSans-Bold';
     src: url('/font/SourceHanSansSC-Bold.woff2');
-    font-weight: bold;
+    font-weight: normal;
     font-style: normal;
 }
 
 html {
-    font-family: 'SourceHanSans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: 'SourceHanSans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6, strong {
-    font-weight: bold !important;
+    font-family: 'SourceHanSans-Bold', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    font-weight: normal !important;
 }
 
 /* You can override the default Infima variables here. */
