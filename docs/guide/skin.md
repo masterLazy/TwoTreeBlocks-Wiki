@@ -24,10 +24,13 @@ sidebar_position: 3
 
 ## 第二步：应用皮肤
 
-登录 TTB，使用 `/skin` 指令，分别对应”默认“和”纤细“两种模型：
+登录 TTB，使用 `/skin` 指令，设置你的皮肤：
 
-```
+```title="适用于 经典/Steve 模型"
 /skin set web classic 皮肤图片的链接
+```
+
+```title="适用于 纤细/Alex 模型"
 /skin set web slim 皮肤图片的链接
 ```
 
