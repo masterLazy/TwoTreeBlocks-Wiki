@@ -52,7 +52,7 @@ PVP 是允许的。
 
 :::info
 
-TTB 使用您在 Minecraft 中的用户名作为你的“身份证”，而非 UUID。我们通过安装[白名单修复 mod](/docs/mods/lazylogin) 来做到这一点。
+TTB 使用您在 Minecraft 中的用户名作为你的“身份证”，而非 UUID。我们通过安装[白名单修复 mod](/docs/mod/lazylogin) 来做到这一点。
 
 :::
 
