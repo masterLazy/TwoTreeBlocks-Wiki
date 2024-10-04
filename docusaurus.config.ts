@@ -116,6 +116,7 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  onBrokenLinks: 'ignore',
 };
 
 export default config;
