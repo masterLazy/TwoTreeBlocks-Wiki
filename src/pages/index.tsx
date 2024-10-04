@@ -36,7 +36,7 @@ export default function Home(): JSX.Element {
             <main>
                 <center>
                     <div style={{
-                        height: 20em;
+                        height: 20rem;
                         width: auto;
                         overflow: hidden;
                         position: relative;
