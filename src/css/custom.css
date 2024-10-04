@@ -5,14 +5,14 @@
  */
 
 @font-face {
-    font-family: 'MyCustomFont';
-    src: url('path-to-your-font.woff2') format('woff2'), url('path-to-your-font.woff') format('woff');
+    font-family: 'SourceHanSans';
+    src: url('font/SourceHanSansSC.woff2');
     font-weight: normal;
     font-style: normal;
 }
 
 html {
-    font-family: 'MyCustomFont', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: 'SourceHanSans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif !important;
 }
 
 /* You can override the default Infima variables here. */
