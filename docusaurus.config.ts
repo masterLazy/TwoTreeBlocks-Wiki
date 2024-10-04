@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Two Three Blocks Wiki',
+  title: 'TwoThreeBlocks Wiki',
   tagline: '二三方块 Minecraft 服务器官方 Wiki',
   favicon: 'img/favicon.ico',
 
@@ -50,7 +50,7 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     navbar: {
-      title: 'Two Three Blocks Wiki',
+      title: 'TwoThreeBlocks Wiki',
       logo: {
         alt: 'My Site Logo',
         src: 'img/ttb.svg',
