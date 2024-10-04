@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: 'SourceHanSans';
-    src: url('font/SourceHanSansSC.woff2');
+    src: url('/font/SourceHanSansSC.woff2');
     font-weight: normal;
     font-style: normal;
 }
