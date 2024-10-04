@@ -4,6 +4,17 @@
  * work well for content-centric websites.
  */
 
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('path-to-your-font.woff2') format('woff2'), url('path-to-your-font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    font-family: 'MyCustomFont', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif !important;
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e5b85;
