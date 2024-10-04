@@ -45,9 +45,9 @@ export default function Home(): JSX.Element {
                             position: absolute,
                             top: 0,
                             left: 0,
-                            width: 100\%,
-                            height: 100\%,
-                            object- fit: cover
+                            width: 100\\%,
+                            height: 100\\%,
+                            object-fit: cover
                         }}>
                     </div>
                 </center>
