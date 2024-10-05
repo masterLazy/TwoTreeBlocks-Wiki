@@ -49,7 +49,7 @@ https://www.mcmod.cn/class/5664.html
 
 服务器还安装了 Carpet TIS Addition，并开启了以下指令，它们会改变游戏特性。
 
-- `/carpet opPlayerNoCheat` 禁止拥有 `op` 权限的玩家使用以下命令：
+- `/carpet opPlayerNoCheat true` 禁止拥有 `op` 权限的玩家使用以下命令：
 
   `/gamemode`；`/give`；`/tp`；`/teleport`；`/setblock`；`/summon`
 ### 另请参阅
