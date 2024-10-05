@@ -4,6 +4,6 @@
 
 *主要建造者：unbreaking_III*
 
-![](https://i.ibb.co/3FvTk6n/image.jpg)
+![](https://i.ibb.co/rGtJbQr/image.jpg)
 
 收集**凋零骷髅头**和煤炭。
