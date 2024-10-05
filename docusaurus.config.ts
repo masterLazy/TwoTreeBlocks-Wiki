@@ -117,14 +117,6 @@ const config: Config = {
         },
     } satisfies Preset.ThemeConfig,
 
-    markdown: {
-        MarkdownConfig: {
-            remarkRehypeOptions: {
-                footnoteLabel: '脚注'
-            }
-        }
-    },
-
     onBrokenLinks: 'ignore'
 };
 
