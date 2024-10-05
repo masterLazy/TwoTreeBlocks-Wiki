@@ -116,8 +116,12 @@ const config: Config = {
             darkTheme: prismThemes.dracula,
         },
     } satisfies Preset.ThemeConfig,
-    onBrokenLinks: 'ignore',
-    footnoteLabel: '脚注'
+
+    Options: {
+        footnoteLabel: '脚注'
+    },
+
+    onBrokenLinks: 'ignore'
 };
 
 export default config;

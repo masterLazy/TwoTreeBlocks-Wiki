@@ -38,7 +38,7 @@ https://www.mcmod.cn/class/2361.html
 
 ### /carpet
 
-服务器还开启了以下指令，它们会改变游戏特性。
+服务器还开启了以下命令，它们会改变游戏特性。
 
 - `/carpet xpNoCooldown true` 吸收经验球无冷却
 - `/carpet onePlayerSleeping true` 允许一名玩家睡觉就跳过夜晚
@@ -47,7 +47,7 @@ https://www.mcmod.cn/class/2361.html
 
 https://www.mcmod.cn/class/5664.html
 
-服务器还安装了 Carpet TIS Addition，并开启了以下指令，它们会改变游戏特性。
+服务器还安装了 Carpet TIS Addition，并开启了以下命令，它们会改变游戏特性。
 
 - `/carpet opPlayerNoCheat true` 禁止拥有 `op` 权限的玩家使用以下命令：
 
