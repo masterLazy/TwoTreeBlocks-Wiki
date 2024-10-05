@@ -66,4 +66,6 @@ MineSkin 是国外服务器，其可能无法访问国内的一些网站。
 
 [服务器 Mod 列表/SkinRestorer](/docs/mod/skinrestorer)
 
+[Commands · Suiranoil/SkinRestorer Wiki](https://github.com/Suiranoil/SkinRestorer/wiki/Commands)
+
 [Failed Loading Skin on Minecraft 1.16.5](https://github.com/Suiranoil/SkinRestorer/issues/37)
