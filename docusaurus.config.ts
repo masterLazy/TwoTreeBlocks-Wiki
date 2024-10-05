@@ -117,10 +117,8 @@ const config: Config = {
         },
     } satisfies Preset.ThemeConfig,
 
-    siteConfig: {
-        markdown: {
-            remarkRehypeOptions: '脚注'
-        }
+    markdown: {
+        remarkRehypeOptions: '脚注'
     },
 
     onBrokenLinks: 'ignore'
