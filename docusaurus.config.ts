@@ -118,8 +118,10 @@ const config: Config = {
     } satisfies Preset.ThemeConfig,
 
     markdown: {
-        remarkRehypeOptions: {
-            footnoteLabel: '脚注'
+        MarkdownConfig: {
+            remarkRehypeOptions: {
+                footnoteLabel: '脚注'
+            }
         }
     },
 
