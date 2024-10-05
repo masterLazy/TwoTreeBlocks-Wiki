@@ -47,7 +47,7 @@ PVP 是允许的。
    - 使用初始密码登录之后，你可以使用 `/password change` 命令[^2]更改你的密码。
 
 [^1]: 初始密码是一个由 8 位大小写英文字母和数字构成的随机字符串
-[^3]: 详见：[服务器 Mod 列表/LazyLogin](/docs/mod/lazylogin)
+[^2]: 详见：[服务器 Mod 列表/LazyLogin](/docs/mod/lazylogin)
 
 :::info
 
