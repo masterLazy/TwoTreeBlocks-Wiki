@@ -11,6 +11,6 @@ https://www.mcmod.cn/class/6867.html
 
 ## 另请参阅
 
-[新手引导/设置皮肤](/intro/skin)
+[新手引导/设置皮肤](/guide/skin)
 
 [Commands · Suiranoil/SkinRestorer Wiki](https://github.com/Suiranoil/SkinRestorer/wiki/Commands)
