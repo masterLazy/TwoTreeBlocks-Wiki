@@ -118,7 +118,11 @@ const config: Config = {
     } satisfies Preset.ThemeConfig,
 
     Options: {
-        footnoteLabel: '脚注'
+        siteConfig: {
+            markdown: {
+                remarkRehypeOptions: '脚注'
+            }
+        }
     },
 
     onBrokenLinks: 'ignore'
